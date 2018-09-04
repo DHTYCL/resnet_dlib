@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/dlib_resnet.dir/main.cpp.o  -o dlib_resnet -rdynamic /usr/local/lib/libdlib.a -lpthread -lnsl -lSM -lICE -lX11 -lXext -lgif -lpng -lz -ljpeg -lopenblas -lsqlite3 

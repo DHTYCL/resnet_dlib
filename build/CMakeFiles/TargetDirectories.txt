@@ -1,0 +1,3 @@
+/home/aitian/QtProject/dlib_resnet/build/CMakeFiles/edit_cache.dir
+/home/aitian/QtProject/dlib_resnet/build/CMakeFiles/rebuild_cache.dir
+/home/aitian/QtProject/dlib_resnet/build/CMakeFiles/dlib_resnet.dir
